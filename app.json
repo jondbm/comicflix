@@ -1,0 +1,6 @@
+{
+    "name": "React Movie Directory",
+    "description": "Comic Book movies",
+    "repository": "https://github.com/jondbm/comicflix.git",
+    "keywords": ["node", "express", "react", "directory"]
+}
